@@ -20,7 +20,7 @@ grid = [
 ]
 
 output 3
-
+```
 Explanation:
 Changing one of the 0s to 1 connects the two 1s into a single island of size 3.
 
@@ -84,8 +84,7 @@ Island Labelling
 Ridham Garg
 B.Tech Computer Engineering, Thapar University
 
-🔗 Problem Link
-🔗 Largest Island – LeetCode
+
 
 🧪 Tips for Interview
 Mention that labeling islands with unique IDs avoids recomputation.
